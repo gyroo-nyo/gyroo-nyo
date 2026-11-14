@@ -4,7 +4,7 @@
 
 ---
 
-### 🤖 [Nova](https://github.com/gyroo-nyo/nova): a tiny robot in your MacBook's notch
+###  [Nova](https://github.com/gyroo-nyo/nova): a tiny robot in your MacBook's notch
 
 <a href="https://github.com/gyroo-nyo/nova"><img src="https://raw.githubusercontent.com/gyroo-nyo/nova/main/docs/nova.gif" width="560" alt="Nova in the MacBook notch"></a>
 
