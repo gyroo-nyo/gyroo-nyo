@@ -16,16 +16,16 @@ A voice assistant for developers. Say **"Hey Nova"** in English or Hinglish and 
 
 ---
 
-### 🛠️ What I work with
+###  What I work with
 
 **Swift · SwiftUI · Python · C++ · scikit-learn · Git · Linux**
 
-### 🌱 Right now
+###  Right now
 
 - Learning more of Swift and macOS/iOS internals
 - Solving DSA in C++ (NeetCode roadmap)
 - **Open to internships** in iOS/macOS and on-device AI
 
-### 📫 Reach me
+###  Reach me
 
 [LinkedIn](https://www.linkedin.com/in/deepanshu-singh-baghel) · [deepanshubaghel2410@gmail.com](mailto:deepanshubaghel2410@gmail.com)
