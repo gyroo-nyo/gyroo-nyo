@@ -8,11 +8,13 @@
 
 <a href="https://github.com/gyroo-nyo/nova"><img src="https://raw.githubusercontent.com/gyroo-nyo/nova/main/docs/nova.gif" width="560" alt="Nova in the MacBook notch"></a>
 
-A voice assistant for developers. Say **"Hey Nova"** in English or Hinglish and it plays music, searches, opens apps and games, and explains or fixes the code on your screen. Fully on-device, with no API keys.
+<a href="https://github.com/gyroo-nyo/nova"><img src="nova-moods.gif" width="560" alt="Nova's moods: grooving, listening, thinking, panicking on his laptop, thumbs up, oops, a wink, gaming, a movie night and asleep"></a>
+
+A voice assistant for developers. Say **"Hey Nova"** in English or Hinglish and it plays music, searches, opens apps and games, and explains or fixes the code on your screen. Fully on-device, with no API keys. The robot is the whole UI: he grooves, listens, panics on a tiny laptop, games on his sofa, and naps when your Mac sleeps.
 
 - **Speech:** Apple SpeechAnalyzer for the wake word and live text, WhisperKit for Hinglish transcripts
 - **Brains:** Apple Foundation Models for chat, a local `qwen2.5-coder` (Ollama) for code help
-- **Built with:** Swift 6 strict concurrency, SwiftUI + AppKit, Accessibility APIs, 158 unit tests, CI on every push
+- **Built with:** Swift 6 strict concurrency, SwiftUI + AppKit, Accessibility APIs, 159 unit tests, CI on every push
 
 ---
 
