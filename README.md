@@ -4,11 +4,11 @@
 
 ---
 
-###  [Nova](https://github.com/gyroo-nyo/nova): a tiny robot in your MacBook's notch
+###  [Nova](https://github.com/gyroo-nyo/Nova): a tiny robot in your MacBook's notch
 
 
 
-<a href="https://github.com/gyroo-nyo/nova"><img src="nova-moods.gif" width="560" alt="Nova's moods: grooving, listening, thinking, panicking on his laptop, thumbs up, oops, a wink, gaming, a movie night and asleep"></a>
+<a href="https://github.com/gyroo-nyo/Nova"><img src="nova-moods.gif" width="560" alt="Nova's moods: grooving, listening, thinking, panicking on his laptop, thumbs up, oops, a wink, gaming, a movie night and asleep"></a>
 
 A voice assistant for developers. Say **"Hey Nova"** in English or Hinglish and it plays music, searches, opens apps and games, and explains or fixes the code on your screen. Fully on-device, with no API keys. The robot is the whole UI: he grooves, listens, panics on a tiny laptop, games on his sofa, and naps when your Mac sleeps.
 
